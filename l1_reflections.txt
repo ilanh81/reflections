@@ -1,0 +1,12 @@
+Reflections:
+
+1. Having access to all the changes made to a file enables me to quickly track down the specific changes that may have been entered which impact the results and thus be able to easily track down how and what was changed 
+
+2. because with code files are often interconnected to each other and it make sense for to see how a logical commit impacts all the files it touches at once
+
+3. I can use git log to view the change / commit history to files and I can use the gid diff to view the specific changes between versions
+
+
+4. I can always go back with GIT to a previous commit verion and worst case fork from there to a new branch. This way I am not affraid breaking something as long as I stick to small commit for any new logical change.
+
+ 5. I want to use git to manage all my projects in the nano degree, submit my assignments via git and learn how to manage my own internal projects using git
