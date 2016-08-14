@@ -1,1 +1,3 @@
 When I initiaze a repository, GIT creates a hidden directory .git
+
+new changes
