@@ -1,1 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+forks/branches/clones
+
+- I would use branches when I am working on my own code with a new experimental part (logic, features..) which I would eventually like to merge with the master tree
+
+- I would use fork is I want to clone from a different repository but keep the credits in place
+
+- I would use clone if I want to own a full copy of a different repo and make it as my own
